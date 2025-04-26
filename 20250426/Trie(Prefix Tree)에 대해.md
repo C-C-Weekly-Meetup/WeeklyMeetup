@@ -57,7 +57,8 @@ Trie(트라이)는 "Re**trie**val Tree"의 줄임말로, 문자열의 접두사 
 /home/foot/*
 
 ```
-![Pasted image 20250426014212](https://github.com/user-attachments/assets/cbecff35-787b-46c9-a7d7-a6c4f7d5970e)
+![Pasted image 20250426231548](https://github.com/user-attachments/assets/acd58661-f4b6-4592-80c6-b9a647b25ffb)
+
 
 ### TrieNode
 ```java
